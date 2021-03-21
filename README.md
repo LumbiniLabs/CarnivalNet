@@ -6,5 +6,7 @@ Creative Collections on Non Fungible Tokens
 - https://medium.com/phantasticphantasma/create-your-own-nfts-2a4d593ee8db
 - https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914
 - https://learn.figment.io/network-documentation/near/tutorials/write-nft-contracts-in-rust
+- 
 
-### 
+### Crypto Kitties
+- https://medium.com/cryptokitties/getting-started-with-cryptokitties-part-one-metamask-540beb54ed44
